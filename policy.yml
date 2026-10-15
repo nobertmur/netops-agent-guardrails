@@ -1,0 +1,31 @@
+---
+# The guardrails. Risk comes from here, never from the proposer.
+version: 1
+
+known_devices: [spine01, spine02, leaf01, leaf02, leaf03]
+
+# Changes on these devices are one risk level higher; a high-risk action becomes critical, which is denied.
+protected_devices: [spine01, spine02]
+
+actions:
+  open_ticket:
+    risk: low
+    modifies_device: false   # exempt from protected-device escalation and change limits
+  clear_bgp_soft:
+    risk: medium
+    params:
+      peer: '^swp[0-9]{1,3}$'
+  shutdown_interface:
+    risk: high
+    params:
+      interface: '^swp[0-9]{1,3}$'
+# Anything not listed above (reboot, arbitrary CLI, config push) is denied.
+
+limits:
+  max_changes_per_run: 3
+  max_changes_per_device_per_hour: 1
+
+# UTC. Medium and high risk changes are denied outside this window. May wrap midnight.
+change_window:
+  start: "22:00"
+  end: "04:00"

@@ -1,0 +1,1059 @@
+[
+ {
+  "timestamp": 1792000000,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000000,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000000,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000000,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000000,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000060,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000060,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000060,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000060,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000060,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000120,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000120,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000120,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000120,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000120,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000180,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000180,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000180,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000180,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000180,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000240,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000240,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000240,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000240,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000240,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000300,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000300,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000300,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000300,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000300,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000360,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000360,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000360,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000360,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000360,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000420,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000420,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000420,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000420,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000420,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000480,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000480,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000480,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000480,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000480,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000540,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000540,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000540,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000540,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000540,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000600,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000600,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000600,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000600,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000600,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000660,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000660,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000660,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000660,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000660,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000720,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000720,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000720,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000720,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000720,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000780,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000780,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000780,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000780,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000780,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000840,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000840,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000840,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000840,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000840,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000900,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000900,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000900,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000900,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792000900,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000960,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792000960,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792000960,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792000960,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792000960,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001020,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001020,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001020,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001020,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792001020,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001080,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001080,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001080,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001080,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792001080,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001140,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001140,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001140,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001140,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792001140,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001200,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001200,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001200,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001200,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792001200,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001260,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001260,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001260,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001260,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792001260,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001320,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001320,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001320,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 0.0
+ },
+ {
+  "timestamp": 1792001320,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792001320,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001380,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001380,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001380,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001380,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792001380,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001440,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001440,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 0.2
+ },
+ {
+  "timestamp": 1792001440,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 0.0
+ },
+ {
+  "timestamp": 1792001440,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792001440,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001500,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 40.0
+ },
+ {
+  "timestamp": 1792001500,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 35.0
+ },
+ {
+  "timestamp": 1792001500,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001500,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 2.1
+ },
+ {
+  "timestamp": 1792001500,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001560,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 40.0
+ },
+ {
+  "timestamp": 1792001560,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 35.0
+ },
+ {
+  "timestamp": 1792001560,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 0.0
+ },
+ {
+  "timestamp": 1792001560,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 1.9
+ },
+ {
+  "timestamp": 1792001560,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001620,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 40.0
+ },
+ {
+  "timestamp": 1792001620,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 35.0
+ },
+ {
+  "timestamp": 1792001620,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001620,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 30.0
+ },
+ {
+  "timestamp": 1792001620,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001680,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 40.0
+ },
+ {
+  "timestamp": 1792001680,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 35.0
+ },
+ {
+  "timestamp": 1792001680,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 0.0
+ },
+ {
+  "timestamp": 1792001680,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 30.0
+ },
+ {
+  "timestamp": 1792001680,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001740,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 40.0
+ },
+ {
+  "timestamp": 1792001740,
+  "device": "spine01",
+  "metric": "if_error_rate",
+  "subject": "swp2",
+  "value": 35.0
+ },
+ {
+  "timestamp": 1792001740,
+  "device": "leaf02",
+  "metric": "bgp_session_up",
+  "subject": "swp2",
+  "value": 1.0
+ },
+ {
+  "timestamp": 1792001740,
+  "device": "leaf03",
+  "metric": "latency_ms",
+  "subject": "swp1",
+  "value": 30.0
+ },
+ {
+  "timestamp": 1792001740,
+  "device": "leaf02",
+  "metric": "if_error_rate",
+  "subject": "swp1",
+  "value": 0.1
+ },
+ {
+  "timestamp": 1792001800,
+  "device": "leaf01",
+  "metric": "if_error_rate",
+  "subject": "swp1; reboot",
+  "value": 99
+ }
+]

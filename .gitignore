@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+# Runtime output
+audit.jsonl
+demo-audit.jsonl
+proposals/
+# Never commit API keys for an LLM provider
+.env
